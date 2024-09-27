@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\DonkeyKong_L01.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{962DB99E-0D48-43C3-AAF3-8B8687314186}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DonkeyKong_L01.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DonkeyKong_L01Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\CMakeCache.txt" />
+    <None Include="..\..\CMakeLists.txt" />
+    <None Include="..\..\cmake_install.cmake" />
+    <None Include="..\..\launch.json" />
+    <None Include="..\..\tasks.json" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{4BFF0703-B046-4699-BAA7-75EBDF6F8C76}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\DonkeyKong_L01">
+      <UniqueIdentifier>{9D66FFAE-F64D-493E-AACA-0F686A9281C7}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DonkeyKong_L01\Barril.cpp">
+      <Filter>Source\DonkeyKong_L01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DonkeyKong_L01\Barril.h">
+      <Filter>Source\DonkeyKong_L01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DonkeyKong_L01\ComponentePlataforma.cpp">
+      <Filter>Source\DonkeyKong_L01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DonkeyKong_L01\ComponentePlataforma.h">
+      <Filter>Source\DonkeyKong_L01</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\DonkeyKong_L01\DonkeyKong_L01.Build.cs">
+      <Filter>Source\DonkeyKong_L01</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\DonkeyKong_L01\DonkeyKong_L01.cpp">
+      <Filter>Source\DonkeyKong_L01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DonkeyKong_L01\DonkeyKong_L01.h">
+      <Filter>Source\DonkeyKong_L01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DonkeyKong_L01\DonkeyKong_L01Character.cpp">
+      <Filter>Source\DonkeyKong_L01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DonkeyKong_L01\DonkeyKong_L01Character.h">
+      <Filter>Source\DonkeyKong_L01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DonkeyKong_L01\DonkeyKong_L01GameMode.cpp">
+      <Filter>Source\DonkeyKong_L01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DonkeyKong_L01\DonkeyKong_L01GameMode.h">
+      <Filter>Source\DonkeyKong_L01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DonkeyKong_L01\Enemigo.cpp">
+      <Filter>Source\DonkeyKong_L01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DonkeyKong_L01\Enemigo.h">
+      <Filter>Source\DonkeyKong_L01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DonkeyKong_L01\EnemigoPuercoEspin.cpp">
+      <Filter>Source\DonkeyKong_L01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DonkeyKong_L01\EnemigoPuercoEspin.h">
+      <Filter>Source\DonkeyKong_L01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DonkeyKong_L01\EnemigoZorrillo.cpp">
+      <Filter>Source\DonkeyKong_L01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DonkeyKong_L01\EnemigoZorrillo.h">
+      <Filter>Source\DonkeyKong_L01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DonkeyKong_L01\Obstaculo.cpp">
+      <Filter>Source\DonkeyKong_L01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DonkeyKong_L01\Obstaculo.h">
+      <Filter>Source\DonkeyKong_L01</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

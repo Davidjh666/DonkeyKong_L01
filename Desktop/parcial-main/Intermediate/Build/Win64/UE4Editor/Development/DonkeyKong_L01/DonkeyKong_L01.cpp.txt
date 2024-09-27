@@ -1,0 +1,2 @@
+C:\Users\lenovo\Desktop\parcial-main\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_L01\Definitions.DonkeyKong_L01.h
+C:\Users\lenovo\Desktop\parcial-main\Source\DonkeyKong_L01\DonkeyKong_L01.h

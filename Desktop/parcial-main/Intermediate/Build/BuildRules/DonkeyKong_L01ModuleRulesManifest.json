@@ -1,0 +1,11 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\lenovo\\Desktop\\parcial-main\\Source\\DonkeyKong\\DonkeyKong.Build.cs",
+		"C:\\Users\\lenovo\\Desktop\\parcial-main\\Source\\DonkeyKong_L01\\DonkeyKong_L01.Build.cs",
+		"C:\\Users\\lenovo\\Desktop\\parcial-main\\Source\\DonkeyKong.Target.cs",
+		"C:\\Users\\lenovo\\Desktop\\parcial-main\\Source\\DonkeyKong_L01.Target.cs",
+		"C:\\Users\\lenovo\\Desktop\\parcial-main\\Source\\DonkeyKong_L01Editor.Target.cs",
+		"C:\\Users\\lenovo\\Desktop\\parcial-main\\Source\\DonkeyKongEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
